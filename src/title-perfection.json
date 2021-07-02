@@ -1,0 +1,1782 @@
+{
+  "AL": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        },
+        {
+          "url": "https://revenue.alabama.gov/wp-content/uploads/2017/05/MVT20_1.pdf",
+          "text": "Completed MVT 20-1"
+        }
+      ]
+    },
+    "StateFee": "$15",
+    "SectionsToBeCompleted": [
+      {
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Owner and lien Information"
+              },
+              {
+                "text": "Sections: A,B"
+              },
+              {
+                "text": "LH sig required*"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Alabama Dept of Revenue"
+      },
+      {
+        "text": "MVD Title Section"
+      },
+      {
+        "text": "PO Box 327640"
+      },
+      {
+        "text": "Montgomery, AL 36132"
+      }
+    ]
+  },
+  "AZ": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        },
+        {
+          "url": "ttps://apps.azdot.gov/files/mvd/mvd-forms-lib/96-0236.pdf",
+          "text": "Completed Form 96-0236"
+        }
+      ]
+    },
+    "StateFee": "$4.00",
+    "SectionsToBeCompleted": "",
+    "DMVAddress": [
+      {
+        "text": "Arizona MVD Mail Drop 555M"
+      },
+      {
+        "text": "Title Production Unit"
+      },
+      {
+        "text": "PO Box 2100"
+      },
+      {
+        "text": "Phoenix, AZ 85001"
+      }
+    ]
+  },
+  "AR": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Borrower agreement and Rep of e-signature from your lendingClub loan documents"
+        },
+        {
+          "text": "Released title"
+        },
+        {
+          "url": "https://www.dfa.arkansas.gov/images/uploads/motorVehicleOffice/VehicleRegistrationApplication.pdf",
+          "text": "Completed form"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$10.89"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "transaction type",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "Secure lien"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Vehicle information",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Owner name"
+              },
+              {
+                "text": "First lienholder, address & contract date"
+              },
+              {
+                "text": "On the back of the title in the Title assignment by owner section in the lien in favor of section please list:"
+              },
+              {
+                "text": "LendingClub PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "AR DFA Special License"
+      },
+      {
+        "text": "PO Box 1272"
+      },
+      {
+        "text": "Little Rock, AR 72203"
+      }
+    ]
+  },
+  "DE": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        }
+      ]
+    },
+    "StateFee": "$55.00",
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "transaction type",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Secure lien"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "Complete section 3 & 4 on back of title"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Delaware DMV"
+      },
+      {
+        "text": "Attn: Titles"
+      },
+      {
+        "text": "PO Box 698"
+      },
+      {
+        "text": "Dover, DE 19903"
+      }
+    ]
+  },
+  "GA": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        },
+        {
+          "url": "https://dor.georgia.gov/mv-1-dor-motor-vehicle-titletag-application",
+          "text": "MV-1"
+        }
+      ]
+    },
+    "StateFee": "$18.00",
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "Sections A, B, & E w/ LC ELT information"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Georgia MVD"
+      },
+      {
+        "text": "PO Box 740381"
+      },
+      {
+        "text": "Atlanta, GA 30374"
+      }
+    ]
+  },
+  "ID": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        },
+        {
+          "text": "ITD 3337"
+        }
+      ]
+    },
+    "StateFee": "$14.00",
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "Sec 1, 2, 3, 7"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Idaho Transportation Department"
+      },
+      {
+        "text": "Title Dealer Operations"
+      },
+      {
+        "text": "PO Box 34"
+      },
+      {
+        "text": "Boise, ID 83731"
+      }
+    ]
+  },
+  "IL": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        }
+      ]
+    },
+    "StateFee": "$53.00",
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Trans type",
+            "childrenListType": "BULLET",
+            "children": [
+              {
+                "text": "corrected title"
+              },
+              {
+                "text": "Sec 5. 7. 8, 9, 15, 19, 24"
+              },
+              {
+                "text": "Sec 8= Purchase date on ttl, used"
+              },
+              {
+                "text": "Sec 19= lien placement"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Office of Secretary of State"
+      },
+      {
+        "text": "Vehicle Services Department"
+      },
+      {
+        "text": "501 S 2nd Street Room 055"
+      },
+      {
+        "text": "Springfield, IL 62756"
+      }
+    ]
+  },
+  "IN": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released title"
+        },
+        {
+          "text": "Form 205 (R10)"
+        },
+        {
+          "url": "https://www.in.gov/bmv/titles/title-forms/",
+          "text": "Title Forms"
+        }
+      ]
+    },
+    "StateFee": "",
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Top right corner",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Applicant signature and printed name, date"
+              }
+            ]
+          },
+          {
+            "text": "Subsequent section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "SSN, name of applicant, residence address, city, state, zipcode, vehicle identification number, vehicle yr, make, model, odometer, holder of first lien, mailing address, city, state, zip code."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Indiana Bureau of Motor Vehicles"
+      },
+      {
+        "text": "Central Office Dealer Fleet Service"
+      },
+      {
+        "text": "100 N Senate Ave Room N411"
+      },
+      {
+        "text": "Indianapolis, IN 46204"
+      }
+    ]
+  },
+  "KS": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Lien Release from prior lender"
+        },
+        {
+          "text": "Manual title application"
+        },
+        {
+          "text": "Copy of registration"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$11.50"
+      },
+      {
+        "text": "$21.50 (If title not received)"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "Check: Add Lien Name, VIN, Year, make, and 1st lien holder information and sign & date"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Your state has county based DMV processing please locate your county office to mail documents or visit an office here:"
+      },
+      {
+        "url": "https://www.ksrevenue.org/dovstations.html",
+        "text": "County Office"
+      }
+    ]
+  },
+  "KY": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "ROL from previous lender (Form TC 96-187) or termination statement on KY state or county form"
+        },
+        {
+          "text": "Title application TC 96-182 & TC 96-187 (select original filing)"
+        },
+        {
+          "text": "Two TC 96-187 forms need to be in the packet one from the previous lender terminating their lien and one to add LendingClub's lien"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$24.00 with title"
+      },
+      {
+        "text": "$28.00 if not sent with title (duplicate filing)"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "TC 96-187",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Required for duplicate filing (when title is not present) Vin section: VIn, YR, Make, Model"
+              },
+              {
+                "text": "Name of owner, section, SSN, address, first lienholder section & notarized owner signature & date"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TC 96-187 ",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Check original filing"
+              },
+              {
+                "text": "Complete sections 1, 2, 4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Indiana Bureau of Motor Vehicles"
+      },
+      {
+        "text": "Central Office Dealer Fleet Service"
+      },
+      {
+        "text": "100 N Senate Ave Room N411"
+      },
+      {
+        "text": "Indianapolis, IN 46204"
+      }
+    ]
+  },
+  "LA": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "LA title application 1799 (ELT Code)"
+        },
+        {
+          "text": "Include borrower agreement & Rep of electronic signature from account summary"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$86.50"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Prepated date, Vin, Body, Color, Year, model, owner name, Drivers License #, owner address, vehicle is subject to security agreement, Electronic lien transfer code, First lienholder name & address"
+              },
+              {
+                "text": "Title fee= 68.50, mortgage fee= $10.00, Drivers Licenseing fee= $8.00 and list $86.50 for the grand total. Sign & date for applicant signature"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "LA Dept of Pub Safety & Corr"
+      },
+      {
+        "text": "Office of Motor Vehicles"
+      },
+      {
+        "text": "PO Box 64886"
+      },
+      {
+        "text": "Baton Rouge, LA 70896"
+      }
+    ]
+  },
+  "MA": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "url": "https://www.mass.gov/doc/title-amendment-form/download",
+          "text": "Completed Title Application"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$25.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Service Type",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Select Add a Lienholder"
+              }
+            ]
+          },
+          {
+            "text": "Section A Owner & Vehicle Information:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Vin, Make, Model, Year, & Bodystyle"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "MD": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Released Security Interest Filing from prior lender or a release of lien document"
+        },
+        {
+          "text": "VR-217"
+        },
+        {
+          "text": "If title is missing VR-018 for duplicate"
+        },
+        {
+          "text": "Borrower Agreement"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$20.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "VR-217",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "YR, make, body style, VIN"
+              },
+              {
+                "text": "Type of Contract= Security Agreement"
+              },
+              {
+                "text": "Name of Secured party= LC"
+              },
+              {
+                "text": "Address of secured party"
+              },
+              {
+                "text": "Date of creation= date on borrower agreement"
+              },
+              {
+                "text": "Amount of lien= Can be found in the Truth & lending disclosure or in the borrower agreement"
+              },
+              {
+                "text": "Name & address of debtor: Borrower Name and address"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "VR-018",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Select reason for duplicate request"
+              },
+              {
+                "text": "Vin, Owners name, Drivers License #, DOB, resident address, date you are completing the form & Owner Signature"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Maryland MVA"
+      },
+      {
+        "text": "Attn Central Lien"
+      },
+      {
+        "text": "6601 Ritchie Hwy NE"
+      },
+      {
+        "text": "Glen Burnie, MD 21062"
+      }
+    ]
+  },
+  "MI": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Lien satisfied"
+        },
+        {
+          "text": "Title application This will be mailed to you by LendingClub."
+        },
+        {
+          "text": "Copy of Drivers License"
+        },
+        {
+          "text": "Notes",
+          "childrenListType": "TYPE_NONE",
+          "children": [
+            {
+              "text": "If you are unable to locate your original title, you may need to file for a duplicate:"
+            },
+            {
+              "url": "https://www.michigan.gov/documents/sos/Duplicate_Title_App_Out_of_State_Res_Svcs_387743_7.pdf",
+              "text": "https://www.michigan.gov/documents/sos/Duplicate_Title_App_Out_of_State_Res_Svcs_387743_7.pdf"
+            },
+            {
+              "childrenListType": "TYPE_BULLET",
+              "children": [
+                {
+                  "text": "YR, Make, VIN, Title fee= $15"
+                },
+                {
+                  "text": "Owner name & address= Your name & address "
+                },
+                {
+                  "text": "Select reason for duplicate"
+                },
+                {
+                  "text": "Sign below"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "15.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Transaction Type= Lien Placement"
+              },
+              {
+                "text": "YR, Make, model, and VIN"
+              },
+              {
+                "text": "Title fee & total= $15"
+              },
+              {
+                "text": "Drivers License #"
+              },
+              {
+                "text": "Name (as it currently appears on the title received from the prior lender )"
+              },
+              {
+                "text": "First Secured Party= LendingClub PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Filing date= Todays date"
+              },
+              {
+                "text": "Sign New owner/applicant signature"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "State of Michigan"
+      },
+      {
+        "text": "Direct Mail Unit"
+      },
+      {
+        "text": "7064 Crowner Dr"
+      },
+      {
+        "text": "Lansing, MI 48918"
+      }
+    ]
+  },
+  "MN": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Certificate of lien release card or release of lien document"
+        },
+        {
+          "text": "Notification of Assignment, Release, or Grant of Interest. This will be mailed to you by LendingClub."
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$23.50"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "YR, Make, Model, VIN"
+              },
+              {
+                "text": "Owner Name & Address"
+              },
+              {
+                "text": "Secured party: LendingClub PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Select Grant"
+              },
+              {
+                "text": "Date of security Agreement= the date loan agreements were signed (listed on the XX of the borrower agreement)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "MN Dept of Public Safety"
+      },
+      {
+        "text": "Driver & Vehicle Services"
+      },
+      {
+        "text": "445 Minnesota St STE 190"
+      },
+      {
+        "text": "St Paul. MN 55101"
+      }
+    ]
+  },
+  "MO": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "url": "href=https://dor.mo.gov/forms/108.pdf",
+          "text": "Title application"
+        },
+        {
+          "text": "2 4809 Forms",
+          "childrenListType": "INDEX_a",
+          "children": [
+            {
+              "text": "Notarized Release of lien from you prior lender (Form 4809)"
+            },
+            {
+              "url": "https://dor.mo.gov/forms/4809.pdf",
+              "text": "Form 4809 to add lien"
+            }
+          ]
+        }
+      ]
+    },
+    "StateFee": "$20.50",
+    "SectionsToBeCompleted": [
+      {
+        "text": "FORM DOR-108",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Trans Type",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Title Only"
+              },
+              {
+                "text": "In first row under the State symbol select \\'original\\'"
+              }
+            ]
+          },
+          {
+            "text": "Owner Section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Enter in your name and address, list any beneficiaries in the the TOD beneficiaries section, fleet #= F, L/R #= LR"
+              }
+            ]
+          },
+          {
+            "text": "Vehicle Section:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Enter in YR, Make, VIn, Body Style, in the K.O.V. section enter in the kind of vehicle you have using the key to the left"
+              }
+            ]
+          },
+          {
+            "text": "Lien/Mail to Section:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Under first lien enter LendingClub"
+              },
+              {
+                "text": "Street Address: PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "Owner Signature:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign and date"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "FORM 4809",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Owner Section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Name, address, city, state and zip"
+              }
+            ]
+          },
+          {
+            "text": "Unit Description section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Year, make, VIN, body style, KOV (usually P for passenger)"
+              }
+            ]
+          },
+          {
+            "text": "Lien/Mail to Section:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "first lien check yes, Security Agreement date (Date on borrower agreement/Date you signed the loan documents), 1/first lien= LendingClub with lienholder address"
+              }
+            ]
+          },
+          {
+            "text": "Owner Signature:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign and date"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "MO DOR"
+      },
+      {
+        "text": "2499 Raymond Dr"
+      },
+      {
+        "text": "St Charles, MO 63301"
+      }
+    ]
+  },
+  "NE": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Your LendingClub borrower agreement"
+        },
+        {
+          "url": "https://wiki.tlcinternal.com/download/attachments/276204751/NE%20Add%20lien%20letter%20.docx?version=1&modificationDate=1622605925000&api=v2",
+          "text": "Letter requesting a lien be recorded in favor LC (county specific)"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$7.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "Add the date, your VIn, and the county you live in on the document attached"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "url": "https://dmv.nebraska.gov/locations-table",
+        "text": "County Treasurer DMV office"
+      },
+      {
+        "text": "Please visit and find the address to your DMV office. You can mail the requirements or visit their location to add our lien"
+      }
+    ]
+  },
+  "NJ": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Lien Release for vehicle newer than"
+        },
+        {
+          "url": "https://www.state.nj.us/mvc/pdf/vehicles/OS-SS-UTA.pdf",
+          "text": "Completed Universal Title application"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$85.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Step 1 select Add Lien"
+              },
+              {
+                "text": "Step 2: Vin, YR, make, model, body type"
+              },
+              {
+                "text": "Step 3: Owner name, Drivers Lincense number, Address & co-Owner information if applicable"
+              },
+              {
+                "text": "Step 4: Lienholder Name= LendingClub Corporation MVC entity Identification Number= Lienholder Address= PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Step 7: Select US Mail"
+              },
+              {
+                "text": "Step 8: Sign and date"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "url": "https://dmv.nebraska.gov/locations-table",
+        "text": "County Treasurer DMV office"
+      },
+      {
+        "text": "Please visit and find the address to your DMV office. You can mail the requirements or visit their location to add our lien"
+      }
+    ]
+  },
+  "NY": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Release of Lien"
+        },
+        {
+          "text": "Notice of Lien. This will be mailed to you by LendingClub."
+        },
+        {
+          "text": "Copy of drivers license"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$5.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Vehicle Information",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Vehicle Identification Number, Year, Make, Model, & Body Type"
+              }
+            ]
+          },
+          {
+            "text": "Owner Information",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Names and addresses"
+              },
+              {
+                "text": "Sign & date Owner section"
+              }
+            ]
+          },
+          {
+            "text": "Lien Information",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "LendingClub"
+              },
+              {
+                "text": "PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "New York State Department of Motor vehicles"
+      },
+      {
+        "text": "Title Bureau"
+      },
+      {
+        "text": "PO Box 2604"
+      },
+      {
+        "text": "Albany, NY 12220-0604"
+      }
+    ]
+  },
+  "NC": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Lien Recording Application"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$21.50"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Complete all areas of the vehicle section"
+              },
+              {
+                "text": "Complete owner section for all listed registered owners and address"
+              }
+            ]
+          },
+          {
+            "text": "Lien section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Only complete the first lien section"
+              },
+              {
+                "text": "Date of lien= Date you sign loan agreements with LendingClub"
+              },
+              {
+                "text": "Lienholder ID #="
+              },
+              {
+                "text": "Lienholder name= LendingClub Corporation"
+              },
+              {
+                "text": "Address= PO Box 729, Wilmington, OH 45177"
+              },
+              {
+                "text": "Sign & notarize"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "New York State Department of Motor vehicles"
+      },
+      {
+        "text": "Title Bureau"
+      },
+      {
+        "text": "PO Box 2604"
+      },
+      {
+        "text": "Albany, NY 12220-0604"
+      }
+    ]
+  },
+  "OK": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "text": "Release of lien"
+        },
+        {
+          "url": "https://www.ok.gov/tax/documents/MV-21-A.pdf",
+          "text": "Completed Lien Entry form"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$22.50"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Name, address"
+              },
+              {
+                "text": "Secured party= LendingClub"
+              },
+              {
+                "text": "Address= PO Box 729, Wilmington, OH 45177"
+              },
+              {
+                "text": "YR, Make, Body Type, Vin"
+              },
+              {
+                "text": "Date of security agreement= the date you financed your vehicle with LendingClub, title no (located on your title.)"
+              },
+              {
+                "text": "Sign & Date"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Oklahoma Tax Commission Motor Vehicle"
+      },
+      {
+        "text": "Division Post Office Box 269061 Oklahoma"
+      },
+      {
+        "text": "City, Oklahoma 73126"
+      }
+    ]
+  },
+  "OR": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Title"
+        },
+        {
+          "url": "https://www.oregon.gov/ODOT/Forms/DMV/226fill.pdf",
+          "text": "Application for Title & Registration"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$94.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Vehicle Information Section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Vin, YR, Make, Style"
+              }
+            ]
+          },
+          {
+            "text": "Owner Section",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Legal full name, address, please"
+              }
+            ]
+          },
+          {
+            "text": "Security Interest Holder (14)",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "LendingClub Corporation"
+              }
+            ]
+          },
+          {
+            "text": "Security interest address (15)",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign & Date (21)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "DMV"
+      },
+      {
+        "text": "1905 Lana Ave NE, Salem OR 97314"
+      }
+    ]
+  },
+  "PA": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released Title"
+        },
+        {
+          "text": "Completed Title Application. This will be mailed to you by LendingClub."
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$81.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Check Section 2",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Record a Lien"
+              }
+            ]
+          },
+          {
+            "text": "Section A",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Vin, Owner Name, Lienholder's Name on Record= LendingClub"
+              },
+              {
+                "text": "Street Address= PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Check boxes: 1st lienholder and record"
+              }
+            ]
+          },
+          {
+            "text": "Section D",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign & Date"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Commonwealth of PA"
+      },
+      {
+        "text": "Bureau of Motor Vehicles"
+      },
+      {
+        "text": "1101 S Front St"
+      },
+      {
+        "text": "Harrisburg, PA 17104-2516"
+      }
+    ]
+  },
+  "RI": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released Title"
+        },
+        {
+          "url": "http://www.dmv.ri.gov/documents/forms/title/TR-2_TR-9.pdf",
+          "text": "Title Application"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$52.50"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Transaction Type",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Security Addition"
+              }
+            ]
+          },
+          {
+            "text": "Section A",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Name, Drivers License #, DOB, Telephone, gender, address"
+              }
+            ]
+          },
+          {
+            "text": "Section C",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "YR, vin, make, model, body type, type of power, color, # of pass, # of CYL, Gross Weight, mileage, select used for vehicle, previous title no, & previous title state if any"
+              }
+            ]
+          },
+          {
+            "text": "Section D",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Lienholder Name= LendingClub"
+              },
+              {
+                "text": "Address= PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "Section G",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Vin, YR, Make, Model, Body Type, & # of CYL"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "I : Sign & date in the presence of a notary"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Division of Motor Vehicles"
+      },
+      {
+        "text": "Research & Title Offices"
+      },
+      {
+        "text": "600 New London Ave"
+      },
+      {
+        "text": "Cranston, RI 02920-3024"
+      }
+    ]
+  },
+  "SC": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Released Title"
+        },
+        {
+          "text": "Form 400"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "$15.50"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Section A",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Select Title"
+              }
+            ]
+          },
+          {
+            "text": "Section B",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Vin, Make, Model, Year, & Bodystyle"
+              }
+            ]
+          },
+          {
+            "text": "Section C",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Current mileage"
+              }
+            ]
+          },
+          {
+            "text": "Section D",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Owner Name & Address"
+              }
+            ]
+          },
+          {
+            "text": "Section F",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "51-0605731, LendingClub, PO Box 729,Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "Section M",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign & Date"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "SC DMV"
+      },
+      {
+        "text": "PO Box 1498"
+      },
+      {
+        "text": "Blythewood, SC 29016"
+      }
+    ]
+  },
+  "TX": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Vehicle Title"
+        },
+        {
+          "text": "Drivers license (Out of State license Acceptable)"
+        },
+        {
+          "text": "Completed Title Application"
+        }
+      ]
+    },
+    "StateFee": [
+      {
+        "text": "Based on county $33.00"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Complete the following Sections",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Applying for= Title & registration"
+              },
+              {
+                "text": "For corrected title or registration, check: Add/Remove Lien"
+              }
+            ]
+          },
+          {
+            "text": "Complete the following Sections:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "1-6, 8,9, 11, 16, 17 (if a joint applicant), 18, 19, 20= same as 16, 31 check or place an X in box, 32= , 33= date on your loan documents, 34= LendingClub Corporation PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "38 select last two boxes under first box list Add lien"
+              }
+            ]
+          },
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign and date the applicant fields."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "SC DMV"
+      },
+      {
+        "text": "PO Box 1498"
+      },
+      {
+        "text": "Blythewood, SC 29016"
+      }
+    ]
+  },
+  "VA": {
+    "Requirements": {
+      "Documents": [
+        {
+          "text": "Copy of Drivers License"
+        }
+      ]
+    },
+    "StateFee": "",
+    "SectionsToBeCompleted": "",
+    "DMVAddress": ""
+  }
+}
