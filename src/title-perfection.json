@@ -360,30 +360,82 @@
       "Documents": [
         {
           "text": "Released title"
+        },
+        {
+          "text": "Copy of your loan agreement"
+        },
+        {
+          "text": "Completed form VSD 190",
+          "childrenListType": "INDEX_a",
+          "children": [
+            {
+              "text": "This form can be accessed in your local DMV office or online by visting:",
+              "childrenListType": "TYPE_NONE",
+              "children": [
+                {
+                  "url": "https://www.cyberdriveillinois.com/departments/vehicles/title_and_registration/pert.html",
+                  "text": "https://www.cyberdriveillinois.com/departments/vehicles/title_and_registration/pert.html",
+                  "childrenListType": "INDEX_i",
+                  "children": [
+                    {
+                      "text": "Website instructions",
+                      "childrenListType": "INDEX_1",
+                      "children": [
+                        {
+                          "text": "Click on “Continue to Application” button."
+                        },
+                        {
+                          "text": "Skip the “Electronic Registration and Title” page by clicking on the “Begin” button."
+                        },
+                        {
+                          "text": "On Vehicle Status select “Used.”"
+                        },
+                        {
+                          "text": "On Title Type select “Lost/Corrected.”"
+                        },
+                        {
+                          "text": "Fill in the title number and VIN and then click on “Next.”"
+                        },
+                        {
+                          "text": "Fill in the VSD 190 form (see below for required fields) and then print and sign the form."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
-    "StateFee": "$53",
+    "StateFee": "$50",
     "SectionsToBeCompleted": [
       {
         "text": "",
         "childrenListType": "TYPE_NONE",
         "children": [
           {
-            "text": "Trans type",
+            "text": "Trans type:",
             "childrenListType": "BULLET",
             "children": [
               {
                 "text": "Corrected title"
               },
               {
-                "text": "Sec 5. 7. 8, 9, 15, 19, 24"
+                "text": "Sec 5, 7, 8, 9, 10, 13, 15, 19, 24"
               },
               {
-                "text": "Sec 8= Purchase date on ttl, used"
+                "text": "Sec 8: Purchase date on title, used"
               },
               {
-                "text": "Sec 19= lien placement"
+                "text": "Sec 13 Mail Title to: LendingClub PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Section 15 First Lienholder: LendingClub PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Sec 19: Lien Placement"
               }
             ]
           }
@@ -1128,7 +1180,7 @@
           "text": "Your LendingClub borrower agreement"
         },
         {
-          "url": "https://wiki.tlcinternal.com/download/attachments/276204751/NE%20Add%20lien%20letter%20.docx?version=1&modificationDate=1622605925000&api=v2",
+          "url": "https://lendingclub.com/asset/ls/cms/auto-refinance/ne-add-lien-letter.docx",
           "text": "Letter requesting a lien be recorded in favor LC (county specific)"
         }
       ]
