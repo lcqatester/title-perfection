@@ -67,7 +67,7 @@ export default function StateRequirments({ stateAb, states }) {
               )}
               {documents && (
                 <div>
-                  <h3>Documments</h3>
+                  <h3>Documents</h3>
                   <div className="documents">
                     {getSectionContent(documents, "INDEX_1")}
                   </div>

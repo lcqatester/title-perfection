@@ -17,17 +17,35 @@
         "childrenListType": "TYPE_NONE",
         "children": [
           {
-            "text": "",
+            "text": "Vehicle Information:",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Owner and lien Information"
+                "text": "All fields, trans code: 04"
               },
               {
-                "text": "Sections: A,B"
+                "text": "Owner name & Address Section"
+              }
+            ]
+          },
+          {
+            "text": "Lien Information",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "First lienholder: LendingClub"
               },
               {
-                "text": "LH sig required*"
+                "text": "Mailing Address: PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "Sections A & B",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "*LH sig required"
               }
             ]
           }
@@ -61,8 +79,36 @@
         }
       ]
     },
-    "StateFee": "$4.00",
-    "SectionsToBeCompleted": "",
+    "StateFee": "$4",
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "Complete the following Sections",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "VIN, Make, Body Style, Year, Model Lien Date: Date you signed the loan agreement"
+              },
+              {
+                "text": "Lienholder DL or EIN: 510605731"
+              },
+              {
+                "text": "Lienholder Name: LendingClub Mailing"
+              },
+              {
+                "text": "Address: PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Owner Name, Street Address, & Sign the owner section"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "DMVAddress": [
       {
         "text": "Arizona MVD Mail Drop 555M"
@@ -104,35 +150,32 @@
         "childrenListType": "TYPE_NONE",
         "children": [
           {
-            "text": "transaction type",
+            "text": "",
             "childrenListType": "TYPE_NONE",
             "children": [
               {
-                "text": "Secure lien"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "text": "",
-        "childrenListType": "TYPE_NONE",
-        "children": [
-          {
-            "text": "Vehicle information",
-            "childrenListType": "TYPE_BULLET",
-            "children": [
-              {
-                "text": "Owner name"
-              },
-              {
-                "text": "First lienholder, address & contract date"
-              },
-              {
-                "text": "On the back of the title in the Title assignment by owner section in the lien in favor of section please list:"
-              },
-              {
-                "text": "LendingClub PO Box 729 Wilmington, OH 45177"
+                "text": "",
+                "childrenListType": "TYPE_BULLET",
+                "children": [
+                  {
+                    "text": "Transaction type: Corrected Title"
+                  },
+                  {
+                    "text": "Vehicle information"
+                  },
+                  {
+                    "text": "Owner name"
+                  },
+                  {
+                    "text": "First lienholder, address & contract date"
+                  },
+                  {
+                    "text": "Signature of owner"
+                  },
+                  {
+                    "text": "On the back of the title in the Title assignment by owner section in the lien in favor of section please list: LendingClub PO Box 729 Wilmington, OH 45177"
+                  }
+                ]
               }
             ]
           }
@@ -159,23 +202,8 @@
         }
       ]
     },
-    "StateFee": "$55.00",
+    "StateFee": "$55",
     "SectionsToBeCompleted": [
-      {
-        "text": "",
-        "childrenListType": "TYPE_NONE",
-        "children": [
-          {
-            "text": "transaction type",
-            "childrenListType": "TYPE_BULLET",
-            "children": [
-              {
-                "text": "Secure lien"
-              }
-            ]
-          }
-        ]
-      },
       {
         "text": "",
         "childrenListType": "TYPE_NONE",
@@ -185,7 +213,28 @@
             "childrenListType": "TYPE_NONE",
             "children": [
               {
-                "text": "Complete section 3 & 4 on back of title"
+                "text": "",
+                "childrenListType": "TYPE_NONE",
+                "children": [
+                  {
+                    "text": "Complete section 3 & 4 on back of title"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Section 3:",
+            "childrenListType": "TYPE_NONE",
+            "children": [
+              {
+                "text": "",
+                "childrenListType": "TYPE_NONE",
+                "children": [
+                  {
+                    "text": "LendingClub PO Box 729 Wilmington, OH 45177"
+                  }
+                ]
               }
             ]
           }
@@ -256,11 +305,12 @@
           "text": "Released title"
         },
         {
+          "url": "https://itd.idaho.gov/wp-content/uploads/2016/06/3337.pdf",
           "text": "ITD 3337"
         }
       ]
     },
-    "StateFee": "$14.00",
+    "StateFee": "$14",
     "SectionsToBeCompleted": [
       {
         "text": "",
@@ -271,7 +321,19 @@
             "childrenListType": "TYPE_NONE",
             "children": [
               {
-                "text": "Sec 1, 2, 3, 7"
+                "text": "Section 1: Title Number (from title received from prior lender), VIN, Year, Make, Body Type, Model, Odometer Reading, Status, and Reading Date."
+              },
+              {
+                "text": "Section 2: Name, Drivers License #, and Address"
+              },
+              {
+                "text": "Section 3: Lienholder Name= Lending Club, Mailing Address: PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "Section 6: Check Title Fee box and list $14 in that in line and in the Total Fees line."
+              },
+              {
+                "text": "Section 7: Sign & Date"
               }
             ]
           }
@@ -301,7 +363,7 @@
         }
       ]
     },
-    "StateFee": "$53.00",
+    "StateFee": "$53",
     "SectionsToBeCompleted": [
       {
         "text": "",
@@ -312,7 +374,7 @@
             "childrenListType": "BULLET",
             "children": [
               {
-                "text": "corrected title"
+                "text": "Corrected title"
               },
               {
                 "text": "Sec 5. 7. 8, 9, 15, 19, 24"
@@ -350,11 +412,8 @@
           "text": "Released title"
         },
         {
-          "text": "Form 205 (R10)"
-        },
-        {
           "url": "https://www.in.gov/bmv/titles/title-forms/",
-          "text": "Title Forms"
+          "text": "Form 205 (R10)"
         }
       ]
     },
@@ -366,7 +425,7 @@
         "children": [
           {
             "text": "Top right corner",
-            "childrenListType": "TYPE_BULLET",
+            "childrenListType": "TYPE_NONE",
             "children": [
               {
                 "text": "Applicant signature and printed name, date"
@@ -375,10 +434,10 @@
           },
           {
             "text": "Subsequent section",
-            "childrenListType": "TYPE_BULLET",
+            "childrenListType": "TYPE_NONE",
             "children": [
               {
-                "text": "SSN, name of applicant, residence address, city, state, zipcode, vehicle identification number, vehicle yr, make, model, odometer, holder of first lien, mailing address, city, state, zip code."
+                "text": "SSN, name of applicant, residence address, city, state, zipcode, vehicle identification number, vehicle year, make, model, odometer, holder of first lien, mailing address, city, state, zip code."
               }
             ]
           }
@@ -468,10 +527,10 @@
     },
     "StateFee": [
       {
-        "text": "$24.00 with title"
+        "text": "$24 with title"
       },
       {
-        "text": "$28.00 if not sent with title (duplicate filing)"
+        "text": "$28 if not sent with title (duplicate filing)"
       }
     ],
     "SectionsToBeCompleted": [
@@ -484,7 +543,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Required for duplicate filing (when title is not present) Vin section: VIn, YR, Make, Model"
+                "text": "Required for duplicate filing (when title is not present) VIN section: VIN, Year, Make, Model"
               },
               {
                 "text": "Name of owner, section, SSN, address, first lienholder section & notarized owner signature & date"
@@ -514,16 +573,11 @@
     ],
     "DMVAddress": [
       {
-        "text": "Indiana Bureau of Motor Vehicles"
+        "text": "Your state has county based DMV processing please locate your county office to mail documents or visit an office here:"
       },
       {
-        "text": "Central Office Dealer Fleet Service"
-      },
-      {
-        "text": "100 N Senate Ave Room N411"
-      },
-      {
-        "text": "Indianapolis, IN 46204"
+        "url": "https://drive.ky.gov/Pages/County-clerks.aspx",
+        "text": "https://drive.ky.gov/Pages/County-clerks.aspx"
       }
     ]
   },
@@ -534,7 +588,8 @@
           "text": "Title"
         },
         {
-          "text": "LA title application 1799 (ELT Code)"
+          "url": "https://dpsweb.dps.louisiana.gov/DPSForms.nsf/8bad5589175b8981862575f20048ee65/3f5bfbc0df992df186256dc0006961fc/$FILE/1799%20-%20Vehicle%20Application%20(R0118).pdf",
+          "text": "Completed LA title application (Only the first page needs to be completed)"
         },
         {
           "text": "Include borrower agreement & Rep of electronic signature from account summary"
@@ -556,10 +611,13 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Prepated date, Vin, Body, Color, Year, model, owner name, Drivers License #, owner address, vehicle is subject to security agreement, Electronic lien transfer code, First lienholder name & address"
+                "text": "Prepated date, VIN, Body, Color, Year, model, owner name, Drivers License #, owner address, vehicle is subject to security agreement, Electronic lien transfer code, First lienholder name & address"
               },
               {
-                "text": "Title fee= 68.50, mortgage fee= $10.00, Drivers Licenseing fee= $8.00 and list $86.50 for the grand total. Sign & date for applicant signature"
+                "text": "Title fee: 68.50, mortgage fee: $10, Drivers Licenseing fee: $8 and list $86.50 for the grand total."
+              },
+              {
+                "text": "Sign & date for applicant signature"
               }
             ]
           }
@@ -595,7 +653,7 @@
     },
     "StateFee": [
       {
-        "text": "$25.00"
+        "text": "$25"
       }
     ],
     "SectionsToBeCompleted": [
@@ -608,7 +666,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Select Add a Lienholder"
+                "text": "Select: Add a Lienholder"
               }
             ]
           },
@@ -617,11 +675,46 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Vin, Make, Model, Year, & Bodystyle"
+                "text": "Registration #, Year, Make, VIN, Title #, Name, Address"
+              }
+            ]
+          },
+          {
+            "text": "Section B Adding a lienholder:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Date of lien: Date you sign loan agreements, Lienholder Code"
+              }
+            ]
+          },
+          {
+            "text": "Lienholder name:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "LendingClub, Address: PO Box 729 Wilmington, OH 45177"
+              }
+            ]
+          },
+          {
+            "text": "Section D Signature:",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Sign, Date & Print Name"
               }
             ]
           }
         ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Registry of Motor Vehicles - Title Division"
+      },
+      {
+        "text": "P.O. Box 55885 · Boston, MA 02205-5889"
       }
     ]
   },
@@ -728,7 +821,7 @@
           "text": "Lien satisfied"
         },
         {
-          "text": "Title application This will be mailed to you by LendingClub."
+          "text": "Title application will be mailed to you by LendingClub."
         },
         {
           "text": "Copy of Drivers License"
@@ -748,7 +841,7 @@
               "childrenListType": "TYPE_BULLET",
               "children": [
                 {
-                  "text": "YR, Make, VIN, Title fee= $15"
+                  "text": "Year, Make, VIN, Title fee= $15"
                 },
                 {
                   "text": "Owner name & address= Your name & address "
@@ -767,7 +860,7 @@
     },
     "StateFee": [
       {
-        "text": "15.00"
+        "text": "15"
       }
     ],
     "SectionsToBeCompleted": [
@@ -792,7 +885,7 @@
                 "text": "Drivers License #"
               },
               {
-                "text": "Name (as it currently appears on the title received from the prior lender )"
+                "text": "Name (as it currently appears on the title received from the prior lender)"
               },
               {
                 "text": "First Secured Party= LendingClub PO Box 729 Wilmington, OH 45177"
@@ -893,7 +986,7 @@
           "text": "Title"
         },
         {
-          "url": "href=https://dor.mo.gov/forms/108.pdf",
+          "url": "https://dor.mo.gov/forms/108.pdf",
           "text": "Title application"
         },
         {
@@ -925,7 +1018,7 @@
                 "text": "Title Only"
               },
               {
-                "text": "In first row under the State symbol select \\'original\\'"
+                "text": "In first row under the State symbol select \"original\""
               }
             ]
           },
@@ -943,7 +1036,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Enter in YR, Make, VIn, Body Style, in the K.O.V. section enter in the kind of vehicle you have using the key to the left"
+                "text": "Enter in Year, Make, VIN, Body Style, in the K.O.V. section enter in the kind of vehicle you have using the key to the left"
               }
             ]
           },
@@ -997,7 +1090,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "first lien check yes, Security Agreement date (Date on borrower agreement/Date you signed the loan documents), 1/first lien= LendingClub with lienholder address"
+                "text": "First lien check yes, Security Agreement date (Date on borrower agreement/Date you signed the loan documents), 1/first lien= LendingClub with lienholder address"
               }
             ]
           },
@@ -1042,7 +1135,7 @@
     },
     "StateFee": [
       {
-        "text": "$7.00"
+        "text": "$7"
       }
     ],
     "SectionsToBeCompleted": [
@@ -1055,7 +1148,7 @@
             "childrenListType": "TYPE_NONE",
             "children": [
               {
-                "text": "Add the date, your VIn, and the county you live in on the document attached"
+                "text": "Add the date, your VIN, and the county you live in on the document attached"
               }
             ]
           }
@@ -1064,11 +1157,11 @@
     ],
     "DMVAddress": [
       {
-        "url": "https://dmv.nebraska.gov/locations-table",
-        "text": "County Treasurer DMV office"
+        "text": "Your state has county based DMV processing locate your county office to mail documents or visit an office here:"
       },
       {
-        "text": "Please visit and find the address to your DMV office. You can mail the requirements or visit their location to add our lien"
+        "url": "https://dmv.nebraska.gov/locations-table",
+        "text": "https://dmv.nebraska.gov/locations-table (NE County Locations)"
       }
     ]
   },
@@ -1102,16 +1195,16 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Step 1 select Add Lien"
+                "text": "Step 1: Select Add Lien"
               },
               {
-                "text": "Step 2: Vin, YR, make, model, body type"
+                "text": "Step 2: VIN, Year, Make, Model, Body type"
               },
               {
                 "text": "Step 3: Owner name, Drivers Lincense number, Address & co-Owner information if applicable"
               },
               {
-                "text": "Step 4: Lienholder Name= LendingClub Corporation MVC entity Identification Number= Lienholder Address= PO Box 729 Wilmington, OH 45177"
+                "text": "Step 4: Lienholder Name= LendingClub Corporation, MVC entity Identification Number= 506196231941050, Lienholder Address= PO Box 729 Wilmington, OH 45177"
               },
               {
                 "text": "Step 7: Select US Mail"
@@ -1131,6 +1224,24 @@
       },
       {
         "text": "Please visit and find the address to your DMV office. You can mail the requirements or visit their location to add our lien"
+      },
+      {
+        "text": "In requirement by state we have:"
+      },
+      {
+        "text": "New Jersey Motor Vehicle Commission"
+      },
+      {
+        "text": "Database Corrections/In-house Agency"
+      },
+      {
+        "text": "225 East State Street"
+      },
+      {
+        "text": "PO Box 141"
+      },
+      {
+        "text": "Trenton, NJ 08666-0141"
       }
     ]
   },
@@ -1153,7 +1264,7 @@
     },
     "StateFee": [
       {
-        "text": "$5.00"
+        "text": "$5"
       }
     ],
     "SectionsToBeCompleted": [
@@ -1219,6 +1330,7 @@
           "text": "Title"
         },
         {
+          "url": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-6.pdf",
           "text": "Lien Recording Application"
         }
       ]
@@ -1253,16 +1365,16 @@
                 "text": "Only complete the first lien section"
               },
               {
-                "text": "Date of lien= Date you sign loan agreements with LendingClub"
+                "text": "Date of lien: Date you sign loan agreements with LendingClub"
               },
               {
-                "text": "Lienholder ID #="
+                "text": "Lienholder ID"
               },
               {
-                "text": "Lienholder name= LendingClub Corporation"
+                "text": "Lienholder name: LendingClub Corporation"
               },
               {
-                "text": "Address= PO Box 729, Wilmington, OH 45177"
+                "text": "Address: PO Box 729, Wilmington, OH 45177"
               },
               {
                 "text": "Sign & notarize"
@@ -1274,16 +1386,13 @@
     ],
     "DMVAddress": [
       {
-        "text": "New York State Department of Motor vehicles"
+        "text": "NC DMV Renewal Title & Plate"
       },
       {
-        "text": "Title Bureau"
+        "text": "3148 Mail Service Center"
       },
       {
-        "text": "PO Box 2604"
-      },
-      {
-        "text": "Albany, NY 12220-0604"
+        "text": "Raleigh, NC 27697"
       }
     ]
   },
@@ -1297,7 +1406,7 @@
           "text": "Release of lien"
         },
         {
-          "url": "https://www.ok.gov/tax/documents/MV-21-A.pdf",
+          "url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/motor-vehicle/general-forms/MV-21-A.pdf",
           "text": "Completed Lien Entry form"
         }
       ]
@@ -1320,16 +1429,16 @@
                 "text": "Name, address"
               },
               {
-                "text": "Secured party= LendingClub"
+                "text": "Secured party: LendingClub"
               },
               {
-                "text": "Address= PO Box 729, Wilmington, OH 45177"
+                "text": "Address: PO Box 729, Wilmington, OH 45177"
               },
               {
-                "text": "YR, Make, Body Type, Vin"
+                "text": "Year, Make, Body Type, VIN"
               },
               {
-                "text": "Date of security agreement= the date you financed your vehicle with LendingClub, title no (located on your title.)"
+                "text": "Date of security agreement: the date you financed your vehicle with LendingClub, title no (located on your title.)"
               },
               {
                 "text": "Sign & Date"
@@ -1365,7 +1474,7 @@
     },
     "StateFee": [
       {
-        "text": "$94.00"
+        "text": "$94"
       }
     ],
     "SectionsToBeCompleted": [
@@ -1374,43 +1483,37 @@
         "childrenListType": "TYPE_NONE",
         "children": [
           {
-            "text": "Vehicle Information Section",
+            "text": "Vehicle Information Section:",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Vin, YR, Make, Style"
+                "text": "VIN, Year, Make, Style"
               }
             ]
           },
           {
-            "text": "Owner Section",
+            "text": "Owner Section:",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Legal full name, address, please"
+                "text": "Legal full name, address"
               }
             ]
           },
           {
-            "text": "Security Interest Holder (14)",
+            "text": "Security Interest Holder (14 & 15):",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
                 "text": "LendingClub Corporation"
-              }
-            ]
-          },
-          {
-            "text": "Security interest address (15)",
-            "childrenListType": "TYPE_BULLET",
-            "children": [
+              },
               {
                 "text": "PO Box 729 Wilmington, OH 45177"
               }
             ]
           },
           {
-            "text": "",
+            "text": "Signature Section:",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
@@ -1422,9 +1525,6 @@
       }
     ],
     "DMVAddress": [
-      {
-        "text": "DMV"
-      },
       {
         "text": "1905 Lana Ave NE, Salem OR 97314"
       }
@@ -1443,7 +1543,7 @@
     },
     "StateFee": [
       {
-        "text": "$81.00"
+        "text": "$81"
       }
     ],
     "SectionsToBeCompleted": [
@@ -1465,13 +1565,13 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Vin, Owner Name, Lienholder's Name on Record= LendingClub"
+                "text": "VIN, Owner Name, Lienholder's Name on Record: LendingClub"
               },
               {
-                "text": "Street Address= PO Box 729 Wilmington, OH 45177"
+                "text": "Street Address: PO Box 729 Wilmington, OH 45177"
               },
               {
-                "text": "Check boxes: 1st lienholder and record"
+                "text": "Check Boxes: 1st lienholder and record"
               }
             ]
           },
@@ -1538,7 +1638,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Name, Drivers License #, DOB, Telephone, gender, address"
+                "text": "Name, Drivers License #, DOB, Telephone, Gender, Address"
               }
             ]
           },
@@ -1547,7 +1647,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "YR, vin, make, model, body type, type of power, color, # of pass, # of CYL, Gross Weight, mileage, select used for vehicle, previous title no, & previous title state if any"
+                "text": "Year, VIN, Make, odel, Body Type, Type of Power, Color, # of Pass, # of CYL, Gross Weight, ileage, Select used for Vehicle, Previous Title no, & Previous Title State if any"
               }
             ]
           },
@@ -1556,10 +1656,10 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Lienholder Name= LendingClub"
+                "text": "Lienholder Name: LendingClub"
               },
               {
-                "text": "Address= PO Box 729 Wilmington, OH 45177"
+                "text": "Address: PO Box 729 Wilmington, OH 45177"
               }
             ]
           },
@@ -1573,11 +1673,11 @@
             ]
           },
           {
-            "text": "",
+            "text": "Section I",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "I : Sign & date in the presence of a notary"
+                "text": "Sign & date in the presence of a notary"
               }
             ]
           }
@@ -1606,13 +1706,14 @@
           "text": "Released Title"
         },
         {
-          "text": "Form 400"
+          "url": "http://www.scdmvonline.com/-/media/Forms/400.ashx",
+          "text": "Form 400 Title Application"
         }
       ]
     },
     "StateFee": [
       {
-        "text": "$15.50"
+        "text": "$15"
       }
     ],
     "SectionsToBeCompleted": [
@@ -1634,7 +1735,7 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Vin, Make, Model, Year, & Bodystyle"
+                "text": "VIN, Make, Model, Year, & Body Style"
               }
             ]
           },
@@ -1699,13 +1800,14 @@
           "text": "Drivers license (Out of State license Acceptable)"
         },
         {
+          "url": "https://www.txdmv.gov/sites/default/files/form_files/130-U.pdf",
           "text": "Completed Title Application"
         }
       ]
     },
     "StateFee": [
       {
-        "text": "Based on county $33.00"
+        "text": "Based on county $33"
       }
     ],
     "SectionsToBeCompleted": [
@@ -1718,35 +1820,41 @@
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "Applying for= Title & registration"
+                "text": "Applying for: Select Title & Registration"
               },
               {
-                "text": "For corrected title or registration, check: Add/Remove Lien"
+                "text": "For corrected Title or Registration, check: Add/Remove Lien"
               }
             ]
           },
           {
-            "text": "Complete the following Sections:",
+            "text": "section: Select Add/Remove Lien",
             "childrenListType": "TYPE_BULLET",
             "children": [
               {
-                "text": "1-6, 8,9, 11, 16, 17 (if a joint applicant), 18, 19, 20= same as 16, 31 check or place an X in box, 32= , 33= date on your loan documents, 34= LendingClub Corporation PO Box 729 Wilmington, OH 45177"
-              }
-            ]
-          },
-          {
-            "text": "",
-            "childrenListType": "TYPE_BULLET",
-            "children": [
+                "text": "1-6, 8,9, 11, 16, 18, 19"
+              },
               {
-                "text": "38 select last two boxes under first box list Add lien"
-              }
-            ]
-          },
-          {
-            "text": "",
-            "childrenListType": "TYPE_BULLET",
-            "children": [
+                "text": "17: (if a joint applicant)"
+              },
+              {
+                "text": "20: same as 16"
+              },
+              {
+                "text": "31: Check or place an X in box"
+              },
+              {
+                "text": "32: 51060573100"
+              },
+              {
+                "text": "33: Date on your loan documents"
+              },
+              {
+                "text": "34: LendingClub Corporation PO Box 729 Wilmington, OH 45177"
+              },
+              {
+                "text": "38: select last two boxes under first box list Add lien"
+              },
               {
                 "text": "Sign and date the applicant fields."
               }
@@ -1757,13 +1865,11 @@
     ],
     "DMVAddress": [
       {
-        "text": "SC DMV"
+        "text": "Your state has county based DMV processing locate your county office here for mailing address:"
       },
       {
-        "text": "PO Box 1498"
-      },
-      {
-        "text": "Blythewood, SC 29016"
+        "url": "https://www.txdmv.gov/tax-assessor-collectors/county-tax-offices",
+        "text": "https://www.txdmv.gov/tax-assessor-collectors/county-tax-offices(TX County Locations)"
       }
     ]
   },
@@ -1771,12 +1877,55 @@
     "Requirements": {
       "Documents": [
         {
+          "text": "Vehicle Title"
+        },
+        {
+          "url": "https://www.dmv.virginia.gov/webdoc/pdf/vsa17a.pdf",
+          "text": "Completed Title Application"
+        },
+        {
           "text": "Copy of Drivers License"
         }
       ]
     },
-    "StateFee": "",
-    "SectionsToBeCompleted": "",
-    "DMVAddress": ""
+    "StateFee": [
+      {
+        "text": "$15"
+      }
+    ],
+    "SectionsToBeCompleted": [
+      {
+        "text": "",
+        "childrenListType": "TYPE_NONE",
+        "children": [
+          {
+            "text": "",
+            "childrenListType": "TYPE_BULLET",
+            "children": [
+              {
+                "text": "Application Type Check: Title Only"
+              },
+              {
+                "text": "Electronic Title Option: Yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DMVAddress": [
+      {
+        "text": "Virginia DMV"
+      },
+      {
+        "text": "Titling Department"
+      },
+      {
+        "text": "2300 West Broad St"
+      },
+      {
+        "text": "Richmond, VA 23269"
+      }
+    ]
   }
 }
